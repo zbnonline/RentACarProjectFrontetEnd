@@ -24,11 +24,6 @@
 
 
 
-
-## Projeye Ait Kısa Tanıtım Videosu
-Projeme Ait Kısa Tanıtım Videosunun Linki: https://www.youtube.com/watch?v=wtggCRRlvMA
-
-
 ### Projeyi Yaparken Kullandığım Teknolojiler
 
 Bu projeyi yaparken bir çok teknoloji kullandım. Bu teknolojilerden bazılarını daha önceden biliyordum ama büyük bir çoğunluğunu projeyi yaparken öğrendim kullandığım teknolojileri aşşağıda görebilirsiniz 
